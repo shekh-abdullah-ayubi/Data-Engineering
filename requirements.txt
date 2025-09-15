@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+matplotlib
+requests>=2.31.0
+jupyterlab>=4.0.8
+ipykernel
