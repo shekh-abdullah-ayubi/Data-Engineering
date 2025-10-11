@@ -16,6 +16,7 @@ __Fundamentals of Python__
 4. Functions and Lambda Functions
 5. Built in functions (such as Map Function,Filter Function)
 6. Additional tips (such as List Comprehension,Enumerate Function,Zip Function)
+7. Concepts of Object Oriented Programming 
 
 __Data Computation__
 
